@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WeeklyTips.iml" filepath="$PROJECT_DIR$/WeeklyTips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeeklyTipsFromLyndadoncom.iml" filepath="$PROJECT_DIR$/.idea/modules/WeeklyTipsFromLyndadoncom.iml" group="WeeklyTipsFromLyndadoncom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeeklyTipsFromLyndadoncom-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeeklyTipsFromLyndadoncom-app.iml" group="WeeklyTipsFromLyndadoncom/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
